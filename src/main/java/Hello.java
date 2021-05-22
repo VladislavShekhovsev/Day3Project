@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("fff");
         System.out.println("ssss");
         System.out.println("sssjkdkdk");
+        System.out.println("last");
     }
 }
